@@ -41,6 +41,6 @@ We compared the results of 6 different classification algorithms and applied 2 u
 ### Result
 
 ## Tableau Dashboard
-
+You can explore our Tableau dashboard [here.](https://public.tableau.com/app/profile/gamma.team/viz/HotelBooking_17403871991650/CancelAnalysis)
 
 ## Streamlit Application
