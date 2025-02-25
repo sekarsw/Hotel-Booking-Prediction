@@ -85,5 +85,4 @@ Below is a table summarizing the key features in the dataset:
 | **stays_in_week_nights**            | Number of weekday nights (Monday-Friday) included in the booking.                                         |
 | **stays_in_weekend_nights**         | Number of weekend nights (Saturday/Sunday) included in the booking.                                       |
 | **total_of_special_requests**       | Total number of special requests made (e.g., extra bed, high floor).                                      |
-                                        |
-
+                                        
