@@ -25,9 +25,18 @@ The hotel industry faces significant challenges related to booking cancellations
 
 ### Modelling
 
-We compared the results of 6 different classification algorithms to find the best model.
+We compared the results of 6 different classification algorithms and applied 2 undersampling methods to find the best model.
+**Models**
 - Logistic Regression
-- 
+- KNN (K-Nearest Neighbors)
+- Decision Tree
+- Random Forest
+- LightGBM (Light Gradient Boosting Machine)
+- XGBoost (Extreme Gradient Boosting)
+
+**Undersampling Methods**
+- Random Undersampling
+- SMOTE
 
 ### Result
 
